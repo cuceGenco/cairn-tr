@@ -4,6 +4,6 @@ title: Official App
 nav_order: 5
 ---
 
-# Official App
+# Resmi Uygulama
 
-[Kettlewright](https://kettlewright.com) is a free, open-source application for managing characters and parties for the Cairn adventure game, currently in Beta. View the [wiki](https://github.com/yochaigal/kettlewright/wiki), submit [issues](https://github.com/yochaigal/kettlewright/issues), or check out the [source code](https://github.com/yochaigal/kettlewright) on GitHub.
+[Kettlewright](https://kettlewright.com), şu anda Beta aşamasında olan Cairn macera oyunu için karakterleri ve partileri yönetmeye yönelik ücretsiz, açık kaynaklı bir uygulamadır. [Wikiyi](https://github.com/yochaigal/kettlewright/wiki) görüntüleyin, [sorunları](https://github.com/yochaigal/kettlewright/issues) bildirin veya GitHub'daki [kaynak koduna](https://github.com/yochaigal/kettlewright) göz atın.

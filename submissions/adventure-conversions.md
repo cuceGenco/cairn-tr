@@ -5,17 +5,18 @@ nav_order: 3
 parent: Submissions
 ---
 
-# Adventure Conversions
+# Macera Dönüşümleri
 
-- Copy the following template when submitting an adventure to the Cairn website. 
-- Please follow the [Style Guide](/submissions/style-guide) for the text of the conversion. 
-- The file should be written in [Markdown](/submissions/submission-guide/#markdown). The filename should be lowercase, and use the *.md suffix (example: cool-adventure.md).
-- Make sure the add the "front matter" at the top of the file (the parts starting with the `---` at the beginning) or the submission won't work. For an example, see [here](/adventures/conversions/stellarium-of-the-vinteralf) (raw text [here](https://github.com/yochaigal/cairn/blob/main/adventures/conversions/stellarium-of-the-vinteralf.md)).
-- Adventure submissions should _always_ credit the author of the work _as well_ as the name of the person converting the work. 
-- Please link to the author, as well as the adventure and (if you're comfortable with it) your own website or contact. 
-- If possible, ask for the author's permission. If not, that's OK! We don't generally need it, but it's great to have.
+- Cairn web sitesine bir macera gönderirken aşağıdaki şablonu kopyalayın.
+- Dönüşüm metni için lütfen [Stil Kılavuzu](/submissions/style-guide)'nu takip edin.
+- Dosya [Markdown](/submissions/submission-guide/#markdown) biçiminde yazılmalıdır. Dosya adı küçük harfli olmalı ve *.md sonekini kullanmalıdır (örnek: cool-adventure.md).
+- Dosyanın en üstüne "front matter" (başlangıçta `---` ile başlayan kısımlar) eklediğinizden emin olun, aksi halde gönderim çalışmaz. Bir örnek için [buraya](/adventures/conversions/stellarium-of-the-vinteralf) bakın (ham metin [burada](https://github.com/yochaigal/cairn/blob/main/adventures/conversions/stellarium-of-the-vinteralf.md)).
+- Macera gönderimleri _her zaman_ eserin _yazarının yanı sıra_ eseri dönüştüren kişinin adını da belirtmelidir.
+- Lütfen yazarın yanı sıra maceraya ve (isterseniz) kendi web sitenize veya iletişim bilgilerinize bağlantı verin.
+- Mümkünse, yazardan izin isteyin. Değilse, sorun yok! Genellikle buna ihtiyacımız yok, ancak iznin olması harika.
 
-## Submission Template
+## Gönderim Şablonu
+
 
 ```
 ---
@@ -27,27 +28,28 @@ nav_exclude: true
 search_exclude: true
 ---
 
-# Adventure Title
+# Macera Başlığı
 
-- Based on the [original work](link-to-game-page) by [Author Name](link-to-author-site).
-- Conversion by [Your Name](link to your contact on the web).
+- [Yazar Adı](yazar-sitesine-bağlantı) tarafından yazılan [orijinal esere](oyun-sayfasına-bağlantı) dayanmaktadır.
+- [Sizin Adınız](web üzerinde iletişim bağlantınız) tarafından dönüştürülmüştür.
 
-## General Notes
-- Put any notes on the conversion here!
-- You can list monsters & NPCs separately or by the location they can be found
+## Genel Notlar
+- Dönüşümle ilgili notları buraya ekleyin!
+- Canavarları ve NPC'leri ayrı ayrı veya bulundukları konuma göre listeleyebilirsiniz.
 
-## Monsters or NPCs
+## Canavarlar veya NPC'ler
 
-### Monster Name
-Monster 1
-- Monster special (critical damage, abilities)
-- More monster specials, etc.
+### Canavar Adı
+Canavar 1
+- Canavar özelliği (kritik hasar, yetenekler)
+- Daha fazla canavar özelliği vb.
 
-## Locations
-### Location A
-#### Weird thing 1
-- Notes on weird thing 1
+## Konumlar
+### Konum A
+#### Tuhaf şey 1
+- Tuhaf şey 1 hakkında notlar
+
 
 ```
 
-Note that the "nav_exclude" and "search_exclude" directives in the Front Matter are for staging purposes only; when the conversion is "complete" they can be removed.
+Not: Ön Bölüm'deki "nav_exclude" ve "search_exclude" yönergeleri yalnızca hazırlık aşaması içindir; dönüşüm "tam"landığında kaldırılabilirler.
