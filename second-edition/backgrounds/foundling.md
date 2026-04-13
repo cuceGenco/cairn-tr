@@ -5,43 +5,42 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Foundling
+# Buluntu
 
-> An odd birthmark, a strange smell: somehow, the touch of _elsewhere_ still lingers. Wherever you are, you have trouble fitting in. Roll on the **Omens** table (even if you're not the youngest player), but keep the results private for now.
- 
-## Names
+> Tuhaf bir doğum lekesi, garip bir koku: _başka bir yerin_ dokunuşu hâlâ tazeliğini koruyor. Nerede olursan ol, uyum sağlamakta zorluk çekiyorsun. **Alametler** tablosunda zar at (en genç oyuncu olmasan bile), ancak sonuçları şimdilik gizli tut.
+
+## İsimler
 
 Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Artea, Gossamer, Hazel
 
-## Starting Gear
+## Başlangıç Ekipmanı
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Salt Pouch
-- Heirloom Amulet (_petty_, glows in the presence of magic)
-- Sling (d6)
-- Dagger (d6) 
+- 3d6 Altın Sikke
+- Yiyecek (3 kullanım)
+- Meşale (3 kullanım)
+- Tuz Kesesi
+- Yadigar Kolye Ucu (_önemsiz_, büyü varlığında parlar)
+- Sapan (d6)
+- Hançer (d6)
 
-## Who took you in? Roll 1d6:
+## Seni kim yanına aldı? 1d6 at:
 
-|       |                                                                                                                                                                                                                          |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | An old hunter. You were both quite happy, until it all ended. Take a **Weathered Longbow** (d8, _bulky_) and a **Leather Jerkin** (1 Armor).                                                                             |
-| **2** | A wizened apothecary, who taught you the healing arts but maintained a clinical detachment. Take a **Healing Unguent** (restores d4 STR, 1 use).                                                                                 |
-| **3** | A druid, who taught you the language of trees. When it came time to , you took with you only a **Gnarled Staff** (d8) and left a promise that one day you would return.                                                 |
-| **4** | A gruff blacksmith from a sleepy river town. You were always kept at arm's length. Now the forge is cold, and you've moved on. Take a **Smith's Apron** (_petty_) and a set of **Oft-mended Chain Mail** (2 Armor, _bulky_). |
-| **5** | A troupe of traveling entertainers. For a time, they were like family to you. One day you woke up and they were gone with no explanation. Take a **Storybook**, a **Dagger** (d6), and some burning questions.           |
-| **6** | The monks of a secluded forest monastery. When their rules became too strict, and you snuck away. Take a **Monk's Habit** (warm, _petty_) and a **Spellbook** of _Control Plants_. Control Plants: Nearby plants and trees obey you and gain the ability to move at a slow pace. _Leaves grow along the spine, and it smells faintly of decay._                                        |
+|       |                                                                                                                                                                                                                                                                                                  |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1** | Yaşlı bir avcı. Her şey bitene kadar ikiniz de oldukça mutluydunuz. **Yıpranmış Uzun Yay** (d8, _hantal_) ve bir **Derlik Ceket** (1 Zırh) al.                                                                                                                                                         |
+| **2** | Şifacılık sanatlarını öğretirken klinik bir mesafeyi koruyan, bilge bir aktar. Bir **İyileştirici Merhem** (d4 GÜÇ onarır, 1 kullanım) al.                                                                                                                                                             |
+| **3** | Ağaçların dilini öğreten bir druid. Ayrılma vakti geldiğinde, yanına sadece **Budaklı Asa**yı (d8) aldın ve bir gün geri döneceğine dair bir söz bıraktın.                                                                                                                                         |
+| **4** | Sakin bir nehir kasabasından huysuz bir demirci. Her zaman mesafeli durdun. Şimdi ocak soğudu ve sen yoluna devam ettin. Bir **Demirci Önlüğü** (_önemsiz_) ve bir takım **Sık Tamir Edilmiş Zincir Zırh** (2 Zırh, _hantal_) al.                                                                                |
+| **5** | Bir gezgin eğlence kumpanyası. Bir süreliğine sana aile gibiydiler. Bir sabah uyandığında, hiçbir açıklama yapmadan gitmişlerdi. Bir **Masal Kitabı**, bir **Hançer** (d6) ve yakıcı sorular al.                                                                                                   |
+| **6** | Issız bir orman manastırının rahipleri. Kuralları çok katılaştığında, sessizce sıvıştın. Bir **Rahip Hırkası** (sıcak, _önemsiz_) ve bir _Bitkileri Kontrol Et_ **Büyü Kitabı** al. Bitkileri Kontrol Et: Yakındaki bitkiler ve ağaçlar sana itaat eder ve yavaş bir hızda hareket etme yeteneği kazanır. _Kitabın sırtında yapraklar uzar ve hafifçe çürüme kokar._ |
 
+## Kötü haberleri ne uzak tutar? 1d6 at:
 
-## What keeps bad tidings at bay? Roll 1d6:
-
-|       |                   |                                                                                                                                         |
-| ----- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Pipeweed**      | Your good luck charm. Conversations tend to flow more easily after a smoke. 6 uses.                                                     |
-| **2** | **Stink Jar**     | Shattering this jar releases an odor so foul all nearby must make a STR save or immediately vomit. 1 use.                                 |
-| **3** | **Ivy Worm**      | A green worm often mistaken for a weed. Swallowed whole, it absorbs any toxins or rot in the body before exiting through the usual way. |
-| **4** | **Dream Stone**   | A smooth blue stone that helps recall dreams more clearly. Overuse can cause dream-addiction.                                           |
-| **5** | **Drowning Rod**  | A finger-sized wooden stick that doubles in size each time it is fully submerged in water. It does not shrink down again.         |
-| **6** | **Rabbit's Foot** | You were wearing it when they found you. They say it is the foot of she who left you and that it protects you from witch magic. _Petty_.       |
+|       |                     |                                                                                                                                                                                                       |
+| ----- | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Kestane Tütünü**  | Senin uğur tılsımın. Bir duman molasından sonra sohbetler daha kolay akma eğilimindedir. 6 kullanım.                                                                                                         |
+| **2** | **Kokuşma Kavanozu** | Bu kavanozu kırmak o kadar berbat bir koku yayar ki, yakındaki herkes GÜÇ zarı atmalıdır veya hemen kusar. 1 kullanım.                                                                                         |
+| **3** | **Sarmaşık Kurdu**  | Genellikle otla karıştırılan yeşil bir kurt. Bütün olarak yutulduğunda, vücuttaki toksinleri ve çürümeyi emer ve ardından olağan yoldan çıkar.                                                                  |
+| **4** | **Düşünce Taşı**    | Rüyaları daha net hatırlamaya yardımcı olan pürüzsüz, mavi bir taş. Aşırı kullanım rüya bağımlılığına neden olabilir.                                                                                       |
+| **5** | **Boğulma Çubuğu**  | Parmak büyüklüğünde tahta bir çubuk. Suya tamamen batırıldığında her seferinde iki katına çıkar. Tekrar küçülmez.                                                                                 |
+| **6** | **Tavşan Ayağı**    | Seni bulduklarında bunu takıyordun. Bunun, seni terk eden kadının ayağı olduğunu ve seni cadı büyüsünden koruduğunu söylerler. _Önemsiz_.                                                                             |

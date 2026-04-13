@@ -5,42 +5,42 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Fletchwind
+# Tüygar
 
-> You strike from afar, but that does not make you a coward. You are a musician, the song of your bowstring nought but a warning, singing the silent promise of a quick death. 
+> Uzaktan vurmak seni korkak yapmaz. Bir müzisyen gibi yay kirişinin şarkısı düşmanlarına uyarı için kullanıyorsun. Hızlı bir ölümün sessiz vaadini iletiyor yayın.
 
-## Names
+## İsimler
 
 Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 
-## Starting Gear
+## Başlangıç Ekipmanı
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Bow (see table)
-- Serrated Knife (d6)
-- Boiled Leather (1 Armor)
-- Heartroot Salve (restores 1d4 STR, 1 use)
+- 3d6 Altın Sikke
+- Yiyecek (3 kullanım)
+- Meşale (3 kullanım)
+- Yay (tabloya bak)
+- Testere Dişli Bıçak (d6)
+- Haşlanmış Deri (1 Zırh)
+- Kalp Kökü Merhemi (1d4 GÜÇ onarır, 1 kullanım)
 
-## How did you earn your bow? Roll 1d6:
+## Yayını nasıl kazandın? 1d6 at:
 
-|       |                                                                                                                                                                                                             |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **War**. If you are first to attack, your bow gains the _blast_ property for the first round.                                                                                                               |
-| **2** | **Falconry**. You keep a falcon [3 hp, 5 STR, 16 DEX, 4 WIL, claws (d6+d6), bite (d8)]. It only eats live game.                                                                                             |
-| **3** | **Hunting**. When taking the Supply action, your ability to secure **Rations** increases by **one step** (e.g. 1d4 becomes 1d6).          |
-| **4** | **Tournaments**. Attacks with your bow are _enhanced_ if the target is immobile.                                                                                                                            |
-| **5** | **Training**. If you are the first to attack, melee attacks against you are _impaired_ until you take STR damage.                                                                                           |
-| **6** | **Scouting**. When taking the Travel action, your presence decreases the chance of getting lost by one step (e.g. 4-in-6 becomes 3-in-6). |
+|       |                                                                                                                                                                                                                         |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Savaş**. Eğer ilk saldıran sen olursan, yayın ilk tur için _patlama_ özelliği kazanır.                                                                                                                                 |
+| **2** | **Doğancılık**. Bir doğan beslersin [3 hp, 5 GÜÇ, 16 ÇEV, 4 İRADE, pençeler (d6+d6), ısırık (d8)]. Sadece canlı av yer.                                                                                                      |
+| **3** | **Avcılık**. Tedarik etme eylemini yaparken, **Yiyecek** elde etme yeteneğin **bir kademe artar** (örn. 1d4 --> 1d6 olur).                                                                                          |
+| **4** | **Turnuvalar**. Yayla yapılan saldırılar, eğer hedef hareketsizse _güçlenmiş_ olur.                                                                                                                                         |
+| **5** | **Eğitim**. Eğer ilk saldıran sen olursan, GÜÇ hasarı alana kadar sana yapılan yakın dövüş saldırıları _zayıflamış_ olur.                                                                                                      |
+| **6** | **Keşif**. Seyahat etme eylemini yaparken, varlığın kaybolma şansını bir kademe azaltır (örn. 4/6 ihtimal, 3/6 olur).                                                                                          |
 
-## What kind of wood is your bow made from? Roll 1d6:
+## Yayın hangi tür ağaçtan yapılmış? 1d6 at:
 
-|       |                                                                                                          |
-| ----- | -------------------------------------------------------------------------------------------------------- |
-| **1** | **Western Yew** (d6, _bulky_). Can be wielded as a blunt weapon (d6). Noisy.                             |
-| **2** | **Sessile Oak** (d8, _bulky_). Slams into targets. On **Critical Damage** something is torn off.         |
-| **3** | **Stone Pine** (d6, _bulky_). Produces one use of **Sticky Sap** per day. The sap is highly explosive.   |
-| **4** | **White Ash** (d6, _bulky_). Can be used in place of a shield in melee combat (+1 Armor).                |
-| **5** | **Striped Bamboo** (d6). Collapsible, it only requires one slot (but still requires both hands).         |
-| **6** | **Wych Elm** (d6, _bulky_). Protects the bearer from poisons and toxins, so long as they are holding it. |
+|       |                                                                                                                              |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Batı Porsuğu** (d6, _hantal_). Bir sopa olarak da kullanılabilir (d6). Gürültülü.                                             |
+| **2** | **Sapsız Meşe** (d8, _hantal_). Hedeflere çarpar. **Kritik Hasar** bir şeyler kopar.                                         |
+| **3** | **Taş Çamı** (d6, _hantal_). Günde bir kullanımlık **Yapışkan Özsu** üretir. Özsu oldukça patlayıcıdır.                              |
+| **4** | **Beyaz Dişbudak** (d6, _hantal_). Yakın dövüşte kalkan yerine kullanılabilir (+1 Zırh).                                            |
+| **5** | **Çizgili Bambu** (d6). Katlanabilir, sadece bir yuva kaplar (ama yine de iki el gerekir).                                          |
+| **6** | **Dağ Karaağacı** (d6, _hantal_). Taşıyıcıyı zehir ve toksinlerden korur, ancak onu tuttuğu sürece.                                   |

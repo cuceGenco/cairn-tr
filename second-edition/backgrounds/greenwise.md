@@ -5,43 +5,43 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Greenwise
+# Yeşil Bilge
 
-> You delve deep into the **Wood**, prying its secrets from between rough boughs and whispering leaves. To this verdant kingdom, you are no mere scholar but its confidant as well.
+> **Orman**ın derinliklerine iner, sırlarını kaba dalların ve fısıldayan yaprakların arasından sıyırıp çıkarırsın. Bu yemyeşil krallığa, sıradan bir bilginden öte, sırdaşı da olursun.
 
-## Names
+## İsimler
 
 Gunther, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
 
-## Starting Gear
+## Başlangıç Ekipmanı
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Iron Pot
-- Root Knife (d6)
-- Healing Salve (restore 1d4 STR, 1 use)
-- Twine Bauble (_petty_, _Ward_ once per day)
-_Ward_: A silver circle 50ft across appears on the ground. Choose one species that cannot cross it.
+- 3d6 Altın 
+- Yiyecek (3 kullanım)
+- Meşale (3 kullanım)
+- Demir Tencere
+- Kök Bıçağı (d6)
+- İyileştirici Merhem (1d4 GÜÇ onarır, 1 kullanım)
+- Sargılı Cicili Bicili (_önemsiz_, günde bir kez _Sargı_)
+_Sargı_: Yerde 15 m çapında gümüş bir daire belirir. Bir tür seç. O tür buradan geçemeyecek.
 
-## How has the Wood failed you ? Roll 1d6:
+## Orman seni nasıl hayal kırıklığına uğrattı? 1d6 at:
 
-|       |                                                                                                                                                                                               |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | An ill-tempered forest spirit cursed you for stealing, marking you as an enemy of their kind. Take a **Bezoar Stone**. Ingesting it cures any poison (1 use, unless retrieved).             |
-| **2** | A close friend disappeared into the forest. Now you see their face in any tea you brew. Take a **Soporific Concoction** (3 uses).                                                                                 |
-| **3** | You were poisoned, losing your sense of taste and smell. You can now withstand noxious fumes and always carry **Antitoxin** (2 uses).                                                        |
-| **4** | Your radical experiments turned your skin green, and you now gain nourishment as a plant. You don't need **Rations**, but a day without sufficient sunlight and water leaves you _deprived_. |
-| **5** | Your impressive corpseflower won a local contest then promptly killed a judge. You fled, but not without the **Prize Money (100gp)** and a warrant for your arrest.                    |
-| **6** | You created a restorative tincture that also causes accidental infertility. Take a **Healing Potion** that completely restores STR. Only you know of its unintended side-effects.                       |
+|       |                                                                                                                                                                                                       |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Huysuz bir orman ruhu seni hırsızlık yaptığın için lanetledi ve seni türünün düşmanı olarak işaretledi. Bir **Bezoar Taşı** al. Yutulduğunda herhangi bir zehri iyileştirir (1 kullanım, geri alınmadıkça). |
+| **2** | Yakın bir arkadaşın ormanda kayboldu. Şimdi demlediğin her çayda onun yüzünü görüyorsun. Bir **Uyku İksiri** (3 kullanım) al.                                                                                 |
+| **3** | Zehirlendin, tat ve koku duyularını kaybettin. Artık zehirli dumanlara dayanabilirsin ve her zaman **Antitoksin** (2 kullanım) taşırsın.                                                                            |
+| **4** | Radikal deneylerin derini yeşile çevirdi ve şimdi besinini bir bitki gibi alıyorsun. **Yiyecek**e ihtiyacın yok, ancak yeterli güneş ışığı ve su olmadan geçen bir gün seni _bitkin_ düşürür.                  |
+| **5** | Etkileyici leş çiçeğin yerel bir yarışmayı kazandı, ardından bir jüriyi öldürdü. Kaçtın ama **Ödül Parası** (100ap) ve hakkında bir yakalama kararı ile.                                    |
+| **6** | İyileştirici bir tentür yarattın, bu aynı zamanda kazara kısırlığa da neden oluyor. GÜÇ'ü tamamen onaran bir **İksir** al. İstenmeyen yan etkilerini sadece sen biliyorsun.                                       |
 
-## What keeps you safe while in the Wood? Roll 1d6:
+## Ormandayken seni güvende tutan şey nedir? 1d6 at:
 
-|       |                  |                                                                                                          |
-| ----- | ---------------- | -------------------------------------------------------------------------------------------------------- |
-| **1** | **Amadou**       | A vermilion fungus that catches fire quite easily. 3 uses.                                              |
-| **2** | **Delphinium**   | Breathe water for up to one hour. 1 use, but can be divided into fractional doses.                       |
-| **3** | **Tacky Stalk**  | A woody reed that hardens into a permanent adhesive when chewed. 2 uses.                                 |
-| **4** | **Wisp Lantern** | Caged in wrought iron, provides a dim light so long as the wisp is able to feed on nearby pain and fear. |
-| **5** | **Seed Bomb**    | A canvas sack filled with seeds that explode on impact. d6 damage (_blast_, 3 uses).                     |
-| **6** | **Briarvine**    | Entangles any creature up to horse size (STR to break free). Reusable.                                   |
+|       |                   |                                                                                                                                                     |
+| ----- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Amadou**        | Oldukça kolay tutuşan, vermilyon rengi bir mantar. 3 kullanım.                                                                                         |
+| **2** | **Delphinium**    | Bir saate kadar suda nefes alırsın. 1 kullanım, ancak kesirli dozlara bölünebilir.                                                                        |
+| **3** | **Yapışkan Saz**  | Çiğnendiğinde kalıcı bir yapıştırıcıya dönüşen odunsu bir kamış. 2 kullanım.                                                                          |
+| **4** | **Cini Feneri**   | Dövme demir kafesli, cin yakındaki acı ve korkuyla beslendiği sürece loş bir ışık sağlar.                                                                  |
+| **5** | **Tohum Bombası** | Darbe üzerine patlayan tohumlarla dolu bir kanvas çuval. d6 hasar (_patlama_, 3 kullanım).                                                                   |
+| **6** | **Diken Sarmaşığı** | At büyüklüğüne kadar herhangi bir yaratığı dolaştırır (kurtulmak için GÜÇ). Tekrar kullanılabilir.                                                              |

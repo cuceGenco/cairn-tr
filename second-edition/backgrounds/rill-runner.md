@@ -5,42 +5,42 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Rill Runner
+# Irmak Ozanı
 
-> You sing the stories of rivers and lakes, your talents soothing friends and the elements alike. You've seen more than most, but somehow it never seems to be enough.
+> Irmakların ve göllerin hikayelerini söyler, yeteneklerinle hem dostlarını hem de doğanın unsurlarını yatıştırırsın. Çoğu kişiden daha fazlasını gördün, ama nedense bu hiçbir zaman yeterli olmuyor.
 
-## Names
+## İsimler
 
 Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
 
-## Starting Gear
+## Başlangıç Ekipmanı
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Water Shoes
-- Brigandine (1 Armor, _bulky_)
-- Compass
-- Dagger (d6)
+- 3z6 Altın Sikke
+- Konsantre Yiyecek (3 kullanım)
+- Meşale (3 kullanım)
+- Su Ayakkabısı
+- Brigandin (1 Zırh, _hantal_)
+- Pusula
+- Hançer (d6)
 
-## What songs are you best known for? Roll 1d6:
+## En çok hangi şarkılarıyla tanınıyorsun? 1z6 at:
 
-|       |                                                                                                                                                                                                                                          |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | _The Tinker's Two-Step_. A humorous fairy tale about a gift-giving traveler. Start with a **Reed Whistle**. Anyone in earshot must pass a WIL save to perform an act of violence.                                                       |
-| **2** | _The Sylph and Her Lover_. A bawdy tale of lost love. Start with a **Breeze Knot** (3 charges). Creates a strong breeze. **Recharge**: Tie it to a mast during a storm.                                                         |
-| **3** | _Harper's Devotion_. A sad, short tale about a musician that falls in love with a star. Start with a **Celestial Lute**. Reveals the constellations above, no matter the weather.                                                              |
-| **4** | _The Reed Fisher_. A celebrated song about a massive carp that always seems to get away. Begin with a spool of **River Twine** (5 uses). Each dip into the river guarantees a catch, though it might not be pleasant.                              |
-| **5** | _Song of the Silver Stream_. A wordless lullaby that mimics flowing water. Take a **Stone Flute** that can calm almost any river.                                                                                             |
-| **6** | _The Thrush and the Meadow_. A moody tale told in alternating chorus. Start with a **Feather Quill** (1 use, _petty_). A map drawn with this quill reveals the most expedient course between any two points. |
+|       |                                                                                                                                                                                                                                                                 |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | _Tenekeci'nin İki Adımı_. Hediye veren bir gezgin hakkında mizahi bir peri masalı. Bir **Sazlık Düdük** ile başla. Duyuş mesafesindeki herhangi biri bir şiddet eylemi gerçekleştirmek için İRADE zarı atmak zorundadır.                                                  |
+| **2** | _Sylph ve Aşığı_. Kayıp bir aşkın müstehcen hikayesi. Bir **Meltem Düğümü** (3 şarj) ile başla. Güçlü bir rüzgar yaratır. **Şarj etme**: Bir fırtına sırasında bir direğe bağla.                                                                            |
+| **3** | _Harper'ın Bağlılığı_. Bir müzisyenin bir yıldıza aşık olmasını anlatan hüzünlü, kısa bir hikaye. Bir **Göksel Lavta** ile başla. Hava nasıl olursa olsun, yukarıdaki takımyıldızlarını gösterir.                                                                         |
+| **4** | _Saz Balıkçısı_. Her seferinde kaçmayı başaran dev bir sazan balığı hakkında ünlü bir şarkı. Bir makara **Nehir Sargısı** (5 kullanım) ile başla. Nehre her daldırış bir av garantiler, ancak bu av hoş olmayabilir.                                                       |
+| **5** | _Gümüş Derenin Şarkısı_. Akan suyu taklit eden sözsüz bir ninni. Hemen hemen her nehri sakinleştirebilen bir **Taş Flüt** al.                                                                                                                                          |
+| **6** | _Pamukçukkuşu ve Çayır_. Dönüşümlü koro halinde anlatılan duygusal bir hikaye. Bir **Tüy Kalem** (1 kullanım, _önemsiz_) ile başla. Bu kalemle çizilen bir harita, herhangi iki nokta arasındaki en uygun rotayı gösterir.                                                    |
 
-## What pays your way across the land? Roll 1d6:
+## Diyarı aşmanın bedelini ne ödüyor? 1z6 at:
 
-|       |                     |                                                                                                                                             |
-| ----- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Performance**     | Performing at taverns always yields both room and board. Sometimes you even get tips! Start with an extra **10gp**.                          |
-| **2** | **Bodyguard**       | You are a protector for those afraid to travel alone. Start with a **Rapier** (d8).                                                          |
-| **3** | **Wares**           | You buy low and sell high, always making just enough to get by. Take a **single item** worth **20gp** (or less) from the [gear](/second-edition/players-guide/marketplace#gear) table.                              |
-| **4** | **Transport**       | You deliver "delicate" packages throughout the lands. You have at least one contact in any major town.                                        |                                                    
-| **5** | **Sailor's Friend** | Over troubled waters and dangerous winds, you always make sure a ship reaches its destination. For you, passage is always free.  |
-| **6** | **Guide**           | You shepherd caravans and travelers across water-soaked lands. Start a **map** (_petty_) relevant to your next journey. |
+|       |                     |                                                                                                                                                                                                                             |
+| ----- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Performans**      | Tavernalarda performans sergilemek her zaman hem yatacak yer hem de yiyecek getirir. Bazen bahşiş bile alırsın! Fazladan **10ap** ile başla.                                                                                      |
+| **2** | **Koruma**          | Yalnız seyahat etmekten korkanlar için bir koruyucusun. Bir **Kılıç** (d8) ile başla.                                                                                                                                              |
+| **3** | **Mal**             | Düşükten alıp yüksekten satar, her zaman idare etmeye yetecek kadar kazanırsın. [Teçhizat](/second-edition/players-guide/marketplace#gear) tablosundan **20ap** (veya daha az) değerinde **tek bir eşya** al.                              |
+| **4** | **Nakliye**         | Diyarın dört bir yanına "hassas" paketler teslim edersin. Her büyük kasabada en az bir bağlantın vardır.                                                                                                                      |
+| **5** | **Denizcinin Dostu** | Sorunlu sularda ve tehlikeli rüzgarlarda, bir geminin hedefine ulaşmasını her zaman sağlarsın. Senin için yolculuk her zaman ücretsizdir.                                                                                 |
+| **6** | **Rehber**          | Kervanları ve gezginleri sulak arazilerde yönlendirirsin. Bir sonraki yolculuğunla ilgili bir **harita** (_önemsiz_) ile başla.                                                                                                          |

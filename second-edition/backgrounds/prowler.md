@@ -5,42 +5,42 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Prowler
+# Pusucu
 
-> You are a specter in the night, a fleeting shadow that slips by its prey, unseen. Each kill is a test of cunning and animal determination, a contest between life and death. You know that one day you will lose. You look forward to it. 
+> Geceleri bir hayaletsin, avının yanından görünmeden sıyrılıp geçen uçucu bir gölge. Her öldürme bir kurnazlık ve hayvani kararlılık sınavıdır, yaşam ve ölüm arasında bir yarış. Bir gün kaybedeceğini biliyorsun. Bunu dört gözle bekliyorsun.
 
-## Names
+## İsimler
 
 Winda, Brielle, Theron, Chayse, Nuja, Dev, Raven, Arawan, Sable, Baruani
 
-## Starting Gear
+## Başlangıç Ekipmanı
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Tarp
-- Boiled Leather (1 Armor)
-- Short Sword (d6)
-- Spring-Loaded trap (4 STR damage)
+- 3d6 Altın 
+- Yiyecek (3 kullanım)
+- Meşale (3 kullanım)
+- Branda
+- Haşlanmış Deri (1 Zırh)
+- Kısa Kılıç (d6)
+- Yaylı Tuzak (4 GÜÇ hasarı)
 
-## What did you last hunt? Roll 1d6:
+## Son avın neydi? 1d6 at:
 
-|       |                                                                                                                                                                                                                                           |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | A _mock firefly_, baiting water carriers with its glowing lure. Take an **Alchemical Limb** (d8, _petty_ when worn) to replace the one it tore off and an **Oil Can** (6 uses). The limb is immune to heat and poison. Needs to be oiled daily. |
-| **2** | An _ice nettle_, trapping and draining sheep. You lost your commission when the fungus you introduced killed half the flock. Take a **Rime Seed** (1 use). It freezes any body of water, no matter the size. Don't eat it.                |
-| **3** | A _silver marsh crawler_ that killed someone close to you. You now carry its **Tooth** (_petty_) on a chain around your neck as a warning to others of its kind. _The tooth hums softly when something is stalking you_.                  |
-| **4** | A malicious _forest spirit_ that poisoned a homestead. You saved a **Heartseed** from the roots of a dying tree. (Plant it to create a new forest.) Also, take **Iron Bracers** (+1 Armor, _bulky_).                                        |
-| **5** | A _hollow wolf_ that had been frightening travelers. You took pity on the half-starved creature and nursed it back to health. Now it is loyal to you unto death. It is also a great tunneler. 5 HP, 11 STR, 13 DEX, 8 WIL, teeth (d6).  |
-| **6** | An _azure warbler_. The gametes attract a sizeable profit, if properly extracted. You succeeded but left its nest to the wolves. Take a **Paring Knife** (d6), **an extra 20gp**, and a pang of regret.                                  |                                                               |
+|       |                                                                                                                                                                                                                                                                                              |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Parıldayan yemiyle su taşıyıcılarını tuzağa düşüren bir _yalancı ateş böceği_. Kopardığı kolun yerine bir **Simya Uzvunu** (d8, _önemsiz_ (giyildiğinde)) ve bir **Yağ Tenekesi** (6 kullanım) al. Uzvun ısıya ve zehre karşı bağışıktır. Günlük yağlanması gerekir.                                   |
+| **2** | Koyunları tuzağa düşürüp kanını emen bir _buz ısırganı_. Getirdiğin mantar sürünün yarısını öldürünce işini kaybettin. Bir **Kırağı Tohumu** (1 kullanım) al. Boyutu ne olursa olsun herhangi bir su kütlesini dondurur. Sakın yeme.                                                                       |
+| **3** | Sana yakın birini öldüren bir _gümüş bataklık sürüngeni_. Şimdi diğerlerine bir uyarı olması için onun **Dişi**ni (_önemsiz_) boynunda bir zincirde taşıyorsun. _Diş, seni izleyen bir şey olduğunda hafifçe uğuldar._                                                                                     |
+| **4** | Bir çiftliği zehirleyen kötü niyetli bir _orman ruhu_. Ölmekte olan bir ağacın köklerinden bir **Kalp Tohumu** kurtardın. (Dikerek yeni bir orman oluşturabilirsin.) Ayrıca **Demir Bileklikler** (+1 Zırh, _hantal_) al.                                                                                    |
+| **5** | Yolcuları korkutan bir _oyuk kurt_. Yarı açlıktan ölmek üzere olan yaratığa acıdın ve onu tekrar sağlığına kavuşturdun. Artık sana ölümüne sadık. Ayrıca harika bir tünel kazıcı. 5 HP, 11 GÜÇ, 13 ÇEV, 8 İRADE, dişler (d6).                                                                               |
+| **6** | Bir _masmavi ötleğen_. Gametleri, uygun şekilde çıkarılırsa hatırı sayılır bir kâr getirir. Başardın ama yuvasını kurtlara terk ettin. Bir **Yüzme Bıçağı** (d6), **fazladan 20ap** ve bir pişmanlık sancısı al.                                                                                      |
 
-## What tool is always in your pack? Roll 1d6:
+## Çantandan hiç çıkarmadığın alet? 1d6 at:
 
-|       |                       |                                                                                                     |
-| ----- | --------------------- | --------------------------------------------------------------------------------------------------- |
-| **1** | **Fermented Spirits** | Keeps you warm at the best of times and as an explosive at the worst. 3 Uses.                       |
-| **2** | **Trail Shaker**      | A noisy instrument that reveals nearby trails, even when deeply hidden.                             |
-| **3** | **Drowse Balm**       | A wax bar. If boiled in water, the steam acts as a soporific agent.                                 |
-| **4** | **Spike and Cord**    | For traversing difficult terrain or for creating makeshift traps and structures.      |
-| **5** | **Iron Rattle**       | A noisemaker for distracting or scaring your quarry. Sounds convincingly like a snake.              |
-| **6** | **Hardening Glue**    | Makes any flat material (cloth, leather, sand) as hard as stone. Expensive (20gp a bottle, 3 uses). |
+|       |                         |                                                                                                                                                 |
+| ----- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Fermente Ruhlar**     | İyi zamanlarda seni sıcak tutar, kötü zamanlarda ise patlayıcıdır. 3 Kullanım.                                                                        |
+| **2** | **İz Çalkalayıcı**      | Derinlerde gizlenmiş olsa bile yakındaki patikaları ortaya çıkaran gürültülü bir alet.                                                                  |
+| **3** | **Uyuşukluk Merhemi**   | Bir mum kalıbı. Suda kaynatılırsa, buharı uyutucu bir madde gibi etki eder.                                                                              |
+| **4** | **Sivri Uç ve İp**      | Zorlu arazilerde geçmek veya geçici tuzaklar ve yapılar oluşturmak için.                                                                               |
+| **5** | **Demir Çıngırak**      | Avın dikkatini dağıtmak veya korkutmak için gürültü çıkaran bir alet. İnandırıcı bir şekilde yılan sesi çıkarır.                                             |
+| **6** | **Sertleştirici Tutkal** | Herhangi bir düz malzemeyi (kumaş, deri, kum) taş gibi sert yapar. Pahalıdır (şişesi 20ap, 3 kullanım).                                                         |

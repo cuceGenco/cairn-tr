@@ -5,42 +5,42 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Mountebank
+# Şarlatan
 
-> Wits are your sharpest weapon, a facade your strongest shield. But when you do lose, you lose badly. 
+> Zekân en keskin silahın, bir cephe ise en güçlü kalkanın. Ama kaybettiğinde, gerçekten kötü kaybedersin.
 
-## Names
+## İsimler
 
 Ambrose, Lucius, Beauregard, Cornelius, Aria, Toph, Indigo, Delphine, Solene, Noa
 
-## Starting Gear
+## Başlangıç Ekipmanı
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Cart (+4 slots, _bulky_ when pulled)
-- Trick Playing Cards 
-- Fancy Hat (_petty_)
-- Cane Sword (d6)
+- 3d6 Altın 
+- Yiyecek (3 kullanım)
+- Meşale (3 kullanım)
+- Araba (+4 yuva, _hantal_ (çekilirken))
+- Hileli Oyun Kartları
+- Süslü Şapka (_önemsiz_)
+- Kamış Kılıç (d6)
 
-## How was your fraud exposed? Roll 1d6:
+## Dolandırıcılığın nasıl ortaya çıktı? 1d6 at:
 
-|       |                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | Your "patients" kept reporting miraculous recoveries, despite your lack of training. Start with **Bandages** (3 uses) and a knack for healing.                                                                                                                                                                                                                                                                 |
-| **2** | After seducing a wealthy patron, their family hired a criminal gang to retrieve you. You got away and need to lay low. Start with **Beauty Cream**, 2 uses. Apply to appear irresistibly beautiful for the next 12 hours.                                                                                                                                                                                      |
-| **3** | You were a peddler of fake prophesies, but when one turned out to be true, it drew unwanted attention. Roll on the **Omens** table, but keep the result to yourself. Start with a concealable **Knife** (d6, _petty_).                                                                                                                                                                                         |
-| **4** | Your latest stunt destroyed a priceless artifact and injured a dozen bystanders. Start with a **Captain's Uniform** (_petty_), a **Ceremonial Sword** (harmless, 60gp), and a **Bouquet of Flowers**.                                                                                                                                                                                                          |
-| **5** | You were cursed by a hedgewitch for fooling some innocent village folk. Magic acts unpredictably in your hands (_WIL save to avoid disaster_). If you are the target of magic, the same applies to its wielder.                                                                                                                                                                                                |
-| **6** | Your "seances" with the dead were in actuality a ruse involving a cleverly hidden spellbook of Auditory Illusion. Inevitably, a patron discovered your secret. Start with the **Spellbook** and a bundle of scarves. Auditory Illusion: You create illusory sounds that seem to come from a direction of your choice. _Produces random and occasionally inopportune sounds throughout the day_. |
+|       |                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | "Hastaların", eğitim eksikliğine rağmen mucizevi iyileşmeler bildirmeye devam etti. **Sargı Bezleri** (3 kullanım) ve bir şifa yeteneği ile başla.                                                                                                                                                                                                                                                                                     |
+| **2** | Zengin bir hamili baştan çıkardıktan sonra, ailesi seni geri almak için bir suç çetesini tuttu. Kaçtın ve sakin olman gerekiyor. **Güzellik Kremi** ile başla, 2 kullanım. Sürüldüğünde, sonraki 12 saat boyunca karşı konulamaz derecede güzel görünmeni sağlar.                                                                                                                                                                                                         |
+| **3** | Sahte kehanetler satıcısıydın, ama içlerinden biri gerçek çıkınca istenmeyen bir ilgi çekti. **Alametler** tablosunda zar at, ancak sonucu kendine sakla. Gizlenebilir bir **Bıçak** (d6, _önemsiz_) ile başla.                                                                                                                                                                                                                            |
+| **4** | Son gösterin paha biçilmez bir eseri yok etti ve bir düzine seyirciyi yaraladı. Bir **Yüzbaşı Üniforması** (_önemsiz_), bir **Tören Kılıcı** (zararsız, 60ap) ve bir **Buket Çiçek** ile başla.                                                                                                                                                                                                                                           |
+| **5** | Bir büyücü tarafından masum köylüleri kandırdığın için lanetlendin. Büyü senin ellerinde tahmin edilemez şekilde davranır (_felaketten kaçınmak için İRADE zarı_). Eğer bir büyünün hedefi olursan, aynısı büyüyü yapan için de geçerlidir.                                                                                                                                                                                                                     |
+| **6** | Ölülerle yaptığın "seanslar" aslında zekice gizlenmiş bir İşitsel Yanılsama büyü kitabını içeren bir aldatmacaydı. Kaçınılmaz olarak, bir patron sırrını keşfetti. **Büyü Kitabı** ve bir deste eşarp ile başla. İşitsel Yanılsama: Seçtiğin bir yönden geliyormuş gibi görünen yanılsamalı sesler yaratırsın. _Gün boyunca rastgele ve zaman zaman uygunsuz sesler çıkarır._ |
 
-## What keepsake could always identify you? Roll 1d6:
+## Hangi hatıra eşyası seni tanımlar? 1d6 at:
 
-|       |                       |                                                                                                                                                                                  |
-| ----- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Royal Crest**       | Born into royalty, you chose a different life. The crest grants you access but also alerts your family of your whereabouts. _Petty_.                                            |
-| **2** | **Miracle Oil**       | A smelly, slippery concoction. 2 uses.                                                                                                                                           |
-| **3** | **Surgeon's Soap**    | A lye and ash block that makes skin temporarily transparent, revealing the anatomy within. 4 uses.                                                                               |
-| **4** | **Goat Powder**       | Derived from the placenta of a baby goat.  Temporarily cures any affliction, but symptoms return within hours.                                                                   |
-| **5** | **Cursed Sapphire**   | Worth **200gp**, it noticeably returns to your pocket shortly after you spend it. You can't seem to get rid of it.                                                             |
-| **6** | **Alchemical Tattoo** | A dog, cat, or bird that can leave your body on demand. It follows your commands to the best of its abilities and can pass its injuries (_as STR loss_) back onto you. _Petty_. |
+|       |                         |                                                                                                                                                                                                                |
+| ----- | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Kraliyet Armacı**     | Kraliyet ailesinde doğdun, farklı bir hayat seçtin. Arma sana erişim sağlar ama aynı zamanda ailene nerede olduğunu bildirir. _Önemsiz_.                                                                            |
+| **2** | **Mucize Yağı**         | Kokulu, kaygan bir karışım. 2 kullanım.                                                                                                                                                                           |
+| **3** | **Cerrah Sabunu**       | Bir kül ve potasyum külçesi. Cildi geçici olarak şeffaflaştırarak içteki anatomiyi gözler önüne serer. 4 kullanım.                                                                                                   |
+| **4** | **Keçi Tozu**           | Bir oğlak keçisinin plasentasından elde edilir. Herhangi bir rahatsızlığı geçici olarak iyileştirir, ancak belirtiler saatler içinde geri döner.                                                                           |
+| **5** | **Lanetli Safir**       | **200ap** değerinde, harcadıktan kısa bir süre sonra göze çarpar bir şekilde cebine geri döner. Ondan kurtulamıyorsun gibi görünüyor.                                                                                |
+| **6** | **Simya Dövmesi**       | İstenildiğinde vücudundan ayrılabilen bir köpek, kedi veya kuş. Yetenekleri dahilinde emirlerini takip eder ve yaralarını (_GÜÇ kaybı olarak_) sana geri aktarabilir. _Önemsiz_.                                                           |

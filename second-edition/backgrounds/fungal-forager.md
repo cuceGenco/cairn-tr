@@ -5,42 +5,41 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Fungal Forager
+# Mantar Toplayıcısı
 
-> You follow the whisperings of the deep earth, the rhythmic pulse of the mycelium forest that grows beneath the surface. The dark holds no terror for you. Also, you really love mushrooms.
+> Derin toprağın fısıltılarını, yüzeyin altında büyüyen miselyum ormanının ritmik nabzını takip ediyorsun. Karanlık senin için bir dehşet barındırmıyor. Ayrıca, mantarları gerçekten çok seviyorsun.
 
-## Names
+## İsimler
 
 Unther, Woozy, Hilda, Current, Leif, Ratan, Mourella, Lal, Per, Madrigal
 
-## Starting Gear
+## Başlangıç Ekipmanı
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Sharpened Trowel (d6)
-- Candle Helmet (+1 Armor, dim, 6 uses)
-- Rope (25ft)
-- Metal Pail
+- 3d6 Altın
+- Yiyecek (3 kullanım)
+- Bileylenmiş Malak (d6)
+- Mum Miğferi (+1 Zırh, loş, 6 kullanım)
+- Halat (7.5 m)
+- Metal Kova
 
-## What strange fungus did you discover? Roll 1d6:
+## Hangi tuhaflıkta bir mantar keşfettin? 1d6 at:
 
-|       |                                                                                                                                                                                |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | **Shrieking Trumpet**. When exposed to light, it screams so loudly that all nearby attacks (including your own) are _impaired_. 2 uses.                                        |
-| **2** | **Torch Fungus**. When crushed, it creates a cold blue light for a short while. 2 uses.                                                                                        |
-| **3** | **Murderous Truffle**. Pungent, highly toxic, and very rare (worth 50gp to assassins).  Illegal pretty much everywhere. 1 use.                                                 |
-| **4** | **Hellcap**. Exposure to its aroma causes intense nausea and vomiting. Either way, it clears the room. Bottled (1 use).                                                        |
-| **5** | **Sproutcup**. Ingest to shrink down to the size of a mouse. (Your belongings stay the same size.) You return to normal size within the hour, often in fits and starts. 1 use. |
-| **6** | **Rootflower**. A white fungus found only on corpses deep underground. Ingest to restore d6 WIL. You will dream of the dead and their stories. 1 use.                          |
- 
+|       |                        |                                                                                                                                                                                                          |
+| ----- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Çığlık Borusu**      | Işığa maruz kaldığında o kadar yüksek sesle çığlık atar ki, yakındaki tüm saldırılar (kendininkiler dahil) _zayıflamış_ olur. 2 kullanım.                                                                        |
+| **2** | **Fener Mantarı**      | Ezildiğinde, kısa bir süreliğine soğuk mavi bir ışık oluşturur. 2 kullanım.                                                                                                                                 |
+| **3** | **Cinayet Trüfü**      | Keskin kokulu, oldukça zehirli ve çok nadirdir (suikastçılara 50ap değerinde). Hemen hemen her yerde yasa dışıdır. 1 kullanım.                                                                                 |
+| **4** | **Cehennem Takkesi**   | Aromasına maruz kalmak yoğun mide bulantısı ve kusmaya neden olur. Her halükarda, odayı boşaltır. Şişelenmiş (1 kullanım).                                                                                 |
+| **5** | **Fincan Filizi**      | Yutulduğunda fare boyutuna kadar küçülürsün. (Eşyaların aynı boyutta kalır.) Bir saat içinde, genellikle gelişigüzel bir şekilde normal boyuna dönersin. 1 kullanım.                                               |
+| **6** | **Kök Çiçeği**         | Sadece yerin derinliklerindeki cesetlerde bulunan beyaz bir mantar. Yutulduğunda d6 İRADE onarır. Ölülerin ve onların hikayelerinin hayalini kuracaksın. 1 kullanım.                                                |
 
-## What keeps you sane, even in utter darkness? Roll 1d6:
+## Tam bir karanlıkta bile seni akıllı tutan şey nedir? 1d6 at:
 
-|       |                     |                                                                                                |
-| ----- | ------------------- | ---------------------------------------------------------------------------------------------- |
-| **1** | **Glowsnail**       | Casts a soft, bioluminescent light. Feeds on one ration every two days.                        |
-| **2** | **Silk Moth Shawl** | A weatherproof blanket, it can also douse a fire without being damaged.                        |
-| **3** | **Milkflower**      | A gentle stimulant. Chewing it makes you immune to _panic_ for the next hour. 3 uses.          |
-| **4** | **Luxcompass**      | Hums softly as it moves closer to the Sun. Eventually the noise becomes unbearably loud.       |
-| **5** | **Sloth-Tarp**      | A tough and weatherproof fabric, useful for hanging off trees. When inside, you have +1 Armor. |
-| **6** | **Miner's Grease**  | Great for dislodging a gem, tool, or limb from a tight crack. Highly explosive. 3 uses.        |
+|       |                      |                                                                                                                                                         |
+| ----- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Parlak Salyangoz** | Yumuşak, biyolüminesan bir ışık saçar. İki günde bir yiyecek ile beslenir.                                                                               |
+| **2** | **İpek Güve Şalı**   | Hava geçirmez bir battaniye, ayrıca hasar görmeden bir ateşi söndürebilir.                                                                                      |
+| **3** | **Süt Çiçeği**       | Hafif bir uyarıcı. Çiğnemek, sonraki bir saat boyunca _panikten_ etkilenmemeni sağlar. 3 kullanım.                                                                  |
+| **4** | **Işık Pusulası**    | Güneş'e yaklaştıkça hafifçe uğuldar. Sonunda ses dayanılmaz derecede yüksek olur.                                                                                |
+| **5** | **Tembel Bez**       | Ağaçlara asmak için kullanışlı, dayanıklı ve hava geçirmez bir kumaş. İçindeyken +1 Zırhın olur.                                                                     |
+| **6** | **Madencinin Gresi** | Dar bir çatlaktan bir değerli taşı, aleti veya uzvu çıkarmak için harikadır. Oldukça patlayıcıdır. 3 kullanım.                                                             |

@@ -5,42 +5,42 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Jongleur
+# Jonglör
 
-> What inspires the soul more than song, words, and spectacle? Why practice for years to master the arcane when you've already got real magic inside? 
+> Ruha şarkıdan, sözden ve gösteriden daha çok ne ilham verir? Zaten içinde gerçek büyü varken neden yıllarca gizemli sanatlarda ustalaşmak için çalışasın ki?
 
-## Names
+## İsimler
 
-Jax, Selene, Baladria, Ada, Mort, Saylor, Tripp, Lantos, Echo, Jubilo   
+Jax, Selene, Baladria, Ada, Mort, Saylor, Tripp, Lantos, Echo, Jubilo
 
-## Starting Gear
+## Başlangıç Ekipmanı
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Costume
-- Simple Instrument (Pipes, Lute, etc.)
-- Lucky Jerkin (+1 Armor)
-- Sling (d6)
+- 3d6 Altın 
+- Yiyecek (3 kullanım)
+- Meşale (3 kullanım)
+- Kostüm
+- Basit Çalgı (Kaval, Lavta vb.)
+- Uğurlu Yelek (+1 Zırh)
+- Sapan (d6)
 
-## What happened at your final performance? Roll 1d6:
+## Son performansında ne oldu? 1d6 at:
 
-|       |                                                                                                                                                                                                                                                        |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | Despite your training in the deadly arts, an actor died and you were blamed. Take a light-weight **Rapier** (d6) and a false identity.                                                                                                                 |
-| **2** | The crowd loved your catchy tune about a noble and his romantic failings. The noble in question, not so much. Take the _Read Mind_ **Spellbook** and a warrant for your arrest. Read Mind: You can hear the surface thoughts of nearby creatures. _Long-term possession can cause the reader to mistake the thoughts of others as their own._                                                                        |
-| **3** | Your debut composition reduced the audience to a gibbering mess, murmuring of bright creatures descending from the night sky. Later you noticed that the notes resembled stellar constellations. Take a **Book On Astronomy**, and a lot of questions. |
-| **4** | You mocked a forgotten trickster god and were cursed for it. You speak only in perfect rhyme. Ironically, this has only made you more popular among your peers. Take a **Thesaurus** (20gp). Without it, you are _deprived_.               |
-| **5** | You were scarred in an on-stage accident. The crowd cheered, thinking it was part of the act. Take well-worn **Stage Mail** (1 Armor), a memorable scar, and a fear of applause.                                                                       |
-| **6** | Your respectable puppeteering skills were matched only by your mimicry. You were so good you were branded a witch (literally) and banished. Take an **Uncanny Hand-Puppet** and a **Rabbit Skull** (_petty_) that protects against charms.     |
+|       |                                                                                                                                                                                                                                                                                                                          |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1** | Ölümcül sanatlardaki eğitimine rağmen, bir oyuncu öldü ve suçu sana yıktılar. Hafif bir **Kılıç** (d6) ve sahte bir kimlik al.                                                                                                                                                                                           |
+| **2** | Kalabalık, bir soylu ve onun romantik başarısızlıkları hakkındaki akılda kalıcı şarkını çok sevdi. Söz konusu soylu ise pek sevmedi. _Zihin Oku_ **Büyü Kitabı** ve hakkında bir yakalama emri al. Zihin Oku: Yakındaki yaratıkların yüzeysel düşüncelerini duyabilirsin. _Uzun süreli kullanım, okuyucunun başkalarının düşüncelerini kendi düşünceleriyle karıştırmasına neden olabilir._ |
+| **3** | İlk besten izleyicileri geveleyen bir karmaşaya, gece gökyüzünden inen parlak yaratıklar hakkında mırıldanmaya sürükledi. Daha sonra notaların takımyıldızlarına benzediğini fark ettin. Bir **Astronomi Kitabı** ve bir sürü soru al.                                                                                   |
+| **4** | Unutulmuş bir düzenbaz tanrıyla alay ettin ve bu yüzden lanetlendin. Sadece kusursuz kafiyeyle konuşuyorsun. İşin ironisi, bu seni akranların arasında daha da popüler yaptı. Bir **Eşanlamlılar Sözlüğü** (20ap) al. Onsuz, _bitkin_ düşersin.                                                                         |
+| **5** | Sahnedeki bir kazada yara aldın. Kalabalık bunun gösterinin bir parçası olduğunu düşünerek tezahürat yaptı. İyice eski **Sahne Zırhı** (1 Zırh), unutulmaz bir yara izi ve alkış korkusu al.                                                                                                                             |
+| **6** | Saygın kukla oyunculuğun, sadece taklit yeteneğinle eşleşiyordu. O kadar iyiydin ki (kelimenin tam anlamıyla) cadı olarak damgalandın ve sürgün edildin. Bir **Ürkütücü El Kuklası** ve büyülere karşı koruyan bir **Tavşan Kafatası** (_önemsiz_) al.                                                              |
 
-## What trinket were you unable to leave behind? Roll 1d6:
+## Hangi ıvır zıvırını geride bırakamadın? 1d6 at:
 
-|       |                    |                                                                                                             |
-| ----- | ------------------ | ----------------------------------------------------------------------------------------------------------- |
-| **1** | **False Cuffs**    | Comfortable, realistic-looking cuffs. Only you know the trick to get out of them.                           |
-| **2** | **Pocket Theatre** | A set of small puppets and a folding stage. Good for quick distractions.                                    |
-| **3** | **Ghost Violin**   | A dark-gray violin that plays a haunting tune, mirrored by an invisible, distant twin.                      |
-| **4** | **Tragic Tales**   | Banned in proper company, this book becomes less bawdy and more harrowing towards the end. Worth **100gp**. |
-| **5** | **Mythos Mask**    | A plaster mask that allows one to take on a monster's countenance. Once it comes off, add a **Fatigue**.    |
-| **6** | **Rebreak Glass**  | A wine flute that can be broken multiple times, reforming after 24 hours. Makes a really loud noise.        |
+|       |                       |                                                                                                                                                             |
+| ----- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Sahte Kelepçeler**  | Rahat, gerçekçi görünümlü kelepçeler. Onlardan kurtulmanın hilesini sadece sen bilirsin.                                                                        |
+| **2** | **Cep Tiyatrosu**     | Bir dizi küçük kukla ve katlanır bir sahne. Hızlı dikkat dağıtmalar için iyidir.                                                                                |
+| **3** | **Hayalet Kemanı**    | Unutulmaz bir ezgi çalan koyu gri bir keman, görünmez, uzak bir ikiz tarafından yankılanır.                                                                         |
+| **4** | **Trajik Hikayeler**  | Düzgün ortamlarda yasaklanmış, bu kitap sona doğru daha az müstehcen ve daha ürkütücü hale gelir. **100ap** değerinde.                                                 |
+| **5** | **Mitos Maskesi**     | Bir canavarın çehresine bürünmeyi sağlayan alçı bir maske. Çıkarıldığında bir **Yorgunluk** ekle.                                                                 |
+| **6** | **Yeniden Kırılan Cam** | Birden çok kez kırılabilen, 24 saat sonra yeniden şekillenen bir şarap kadehi. Gerçekten yüksek bir ses çıkarır.                                                      |

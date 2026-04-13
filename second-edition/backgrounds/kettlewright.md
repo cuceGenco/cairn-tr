@@ -5,44 +5,42 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Kettlewright
+# Kazancı
 
-> You are known by the smell of molten metal and the jingle of tin. You are no mere merchant but an artisan of fire and metal. 
+> Sizi erimiş metal kokusu ve tenekenin şıngırtısıyla tanırlar. Siz sıradan bir tüccar değil, ateş ve metalin zanaatkârısınız.
 
-## Names
+## İsimler
 
 Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 
-## Starting Gear
+## Başlangıç Ekipmanı
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Pincers
-- Roll of Tin
-- Gloves (_petty_)
-- Hammer (d6)
+- 3d6 Altın 
+- Konsantre Yiyecek (3 kullanım)
+- Meşale (3 kullanım)
+- Kargaburun
+- Rulo Teneke
+- Eldivenler (_önemsiz_)
+- Çekiç (d6)
 
-## What is your trade? Roll 1d6:
+## Zanaatin nedir? 1d6 at:
 
-|       |                                                                                                                                                                                                                 |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | You build small contraptions for local guilds (and don't ask too many questions). Take an extra 40gp and a wanted poster with your face on it. Given time and materials, you can open almost any door or vault. |
-| **2** | You deal in home goods and tools, hawking your wares to townspeople across the lands. Take 20gp worth of items from the [gear](/second-edition/players-guide/marketplace#gear) table. You are fluent in the _Traveler's Cant_.       |
-| **3** | You were a military smelter, before peace destroyed your livelihood. Take a **smelting hammer** (d10, _bulky_) and a **tin helm** (+1 Armor). Given time and adequate materials, you can repair armor.          |
-| **4** | You sell rare and quality items to monasteries and nobles alike. Take a **Spyglass**, a **Necklace** (_petty_) worth 20gp, and a **Scroll** of Mirrorwalk (_petty_).                      |
-| **5** | You offer protection as a service, quietly watching for threats as money exchanges hands. You start with **+d4 HP**, and carry a **Long Sword** (d10, _bulky_) and a **Gambeson** (+1 Armor).         |
-| **6** | You scavenge raw tin and iron from battlefields, pulling teeth from still-twitching corpses. Start with a young **Donkey** (+4 slots, slow), a **Crossbow** (d8 damage, _bulky_), and a **Saw** (d6).           |
+|       |                                                                                                                                                                                                                                 |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Yerel loncalar için küçük düzenekler yaparsın (ve çok fazla soru sormazsın). Fazladan 40ap ve üzerinde yüzün olan bir aranan posteri al. Zaman ve malzeme verildiğinde, neredeyse her kapıyı veya kasayı açabilirsin.                     |
+| **2** | Ev eşyaları ve aletler satar, mallarını diyarın dört bir yanındaki kasaba halkına yutturursun. [Teçhizat](/second-edition/players-guide/marketplace#gear/) tablosundan 20ap değerinde eşya al. _Gezgin Argosu_'nda akıcısındır.                |
+| **3** | Barış geçim kaynağını mahvetmeden önce askeri bir izciydin. Bir **izci çekici** (d10, _hantal_) ve bir **teneke miğfer** (+1 Zırh) al. Zaman ve yeterli malzeme verildiğinde zırh onarabilirsin.                                  |
+| **4** | Manastırlara ve soylulara nadir ve kaliteli eşyalar satarsın. Bir **Dürbün**, 20ap değerinde bir **Kolye** (_önemsiz_) ve bir _Ayna Yürüyüşü_ **Tomarı** (_önemsiz_) al.                                                |
+| **5** | Bir hizmet olarak koruma teklif edersin, para el değiştirirken sessizce tehditleri izlersin. **+d4 HP** ile başlarsın ve bir **Uzun Kılıç** (d10, _hantal_) ile bir **Gambeson** (+1 Zırh) taşırsın.                     |
+| **6** | Savaş alanlarından ham teneke ve demir toplar, hâlâ seğiren cesetlerden diş sökersin. Genç bir **Eşek** (+4 yuva, yavaş), bir **Arbalet** (d8 hasar, _hantal_) ve bir **Testere** (d6) ile başlarsın.                               |
 
-## What never fails to get you out of trouble? Roll 1d6:
+## Seni beladan kurtarmakta asla başarısız olmayan şey nedir? 1d6 at:
 
-|     |                    |                                                                                                                                                                  |
-| --- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Fire Eggs**      | Six small pellets made of sea salt, wood, and crockery-dust. They explode at low heat (d8, _blast_) but the flames dissipate quickly.                            |
-| 2   | **Black Tar**      | Versatile: both sticky and highly flammable. 3 uses.                                                                                                             |
-| 3   | **Spiked Boots**   | Cracks heads (d8) as easily as it does ice and muck. Travel is also a bit slower, but easier.                                                                    |
-| 4   | **Tinker's Paste** | Seals shut any fist-sized opening. 3 uses.                                                                                                                       |
-| 5   | **Fireworks**      | A dazzling albeit dangerous display. Enough explosive material to blow off a finger or three. 2 uses remain.                                                    |
-| 6   | **Carrion Cat**    | A clever pet, small enough to hide in your pack (_bulky_), but strong enough to scare off smaller predators. Requires one **Ration** a day, and it must be meat. |
-|     |                    |                                                                                                                                                                  |
-
+|     |                     |                                                                                                                                                                             |
+| --- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Ateş Yumurtaları** | Deniz tuzu, odun ve çanak çömlek tozundan yapılmış altı küçük top. Düşük ısıda patlarlar (d8, _patlama_) ama alevler hızla dağılır.                                                  |
+| 2   | **Kara Katran**     | Çok yönlü: hem yapışkan hem de oldukça yanıcıdır. 3 kullanım.                                                                                                                   |
+| 3   | **Sivri Çizmeler**  | Buzu ve çamuru kırdığı kadar kafaları da yarar (d8). Seyahat biraz daha yavaş, ama daha kolaydır.                                                                                    |
+| 4   | **Zanaat Macunu**   | Yumruk büyüklüğündeki herhangi bir deliği kapatır. 3 kullanım.                                                                                                                   |
+| 5   | **Havai Fişekler**  | Göz alıcı, ancak tehlikeli bir gösteri. Bir veya üç parmağı uçurmaya yetecek patlayıcı madde. 2 kullanım kaldı.                                                                           |
+| 6   | **Leş Kedisi**      | Çantanın içine saklanacak kadar küçük (_hantal_), ancak daha küçük yırtıcıları korkutacak kadar güçlü, zeki bir evcil hayvan. Günde bir **Yiyecek** gerektirir ve bu et olmalıdır. |

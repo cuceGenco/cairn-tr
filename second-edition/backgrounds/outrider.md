@@ -5,43 +5,42 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Outrider
+# Öncü Süvari
 
-> Your coin comes from escorting caravans, tracking fugitives, or lending your blade to a cause. You've been a savior, an executioner, a hero, and even a villain. Yours is not a solitary path, however: you'll always have your horse.
+> Paranı kervanlara eşlik ederek, kaçakları takip ederek ya da kılıcını bir davaya kiralayarak kazanırsın. Kurtarıcı, cellat, kahraman ve hatta kötü adam oldun. Ancak yolculuğun yalnız değil: atın her zaman yanında olacak.
 
-## Names
+## İsimler
 
 Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
 
-## Starting Gear
+## Başlangıç Ekipmanı
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Long Sword (d10, _bulky_)
-- Leather Jerkin (1 Armor)
-- Crossbow (d8, _bulky_)
-- Spyglass
+- 3d6 Altın Sikke
+- Yiyecek (3 kullanım)
+- Meşale (3 kullanım)
+- Uzun Kılıç (d10, _hantal_)
+- Deri Ceket (1 Zırh)
+- Arbalet (d8, _hantal_)
+- Dürbün
 
-## What personal code or principle do you uphold? Roll 1d6:
+## Hangi kişisel kural veya ilkeyi savunuyorsun? 1d6 at:
 
-|       |                                                                                                                                                                                                                                                                                       |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **No innocent blood**: No bystander will come to harm on your watch. Take a **Steadymade Buckler** (+1 Armor). While holding this shield, you cannot be moved so long as both feet are planted on firm ground.                                                                         |
-| **2** | **Revere the tools of death**: Weapons are to be respected and maintained. Take a **Wyrmbone Whetstone**. Following a half-hour ritual sharpening, attacks with the weapon are _enhanced_ until STR damage is dealt.                                                                  |
-| **3** | **To the death, always**: You never back down from a fight, no matter the odds. Take a **Death-Whistle**, 1 charge. Its scream frightens away all who hear it (save WIL or flee). **Recharge**: Capture the final breath of a dying warrior.                                          |
-| **4** | **Revere the dead**: Death is a journey we all take, and it deserves respect. Take an extra **30gp**. You always place two gold pieces on the eyelids of a slain foe. Somehow, you always find the coin.                                                                              |
-| **5** | **Loyalty to the work**: Your word is your bond. Once you've accepted a job, you see it through to the end. Take a weathered **Tally Stick**. Once a vow is marked onto its face, the stick hardens (d8) until it is complete. The stick will snap in half if the vow is ever broken. |
-| **6** | **Always pay your debts**: You always repay what you owe, whether in coin or in kind. You expect nothing less from all others. Take a **Blacked-Out Ledger**, then roll a second time on the **Bonds** table.                                                                         |
+|       |                                                                                                                                                                                                                                                                                               |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Masum kanı akıtma**: Senin gözetiminde hiçbir masum zarar görmez. Bir **Sağlam Yapım Küçük Kalkan** (+1 Zırh) al. Bu kalkanı tutarken, her iki ayağın da sağlam zemine basıyorsa hareket ettirilemezsin.                                                                                              |
+| **2** | **Ölüm araçlarına saygı göster**: Silahlara saygı duyulmalı ve bakımı yapılmalıdır. Bir **Ejder Kemiği Bileme Taşı** al. Yarım saatlik ritüel bileme sonrasında, silahla yapılan saldırılar GÜÇ hasarı alınana kadar _güçlenmiş_ olur.                                                                                       |
+| **3** | **Her zaman ölüme kadar**: İhtimaller ne olursa olsun, asla bir kavgadan geri adım atmazsın. Bir **Ölüm Islığı** al, 1 şarj. Çığlığı duyan herkesi korkutup kaçırır (İRADE zarı veya kaçar). **Şarj etme**: Ölmekte olan bir savaşçının son nefesini yakala.                                                   |
+| **4** | **Ölülere saygı göster**: Ölüm hepimizin çıktığı bir yolculuktur ve saygıyı hak eder. Fazladan **30ap** al. Öldürdüğün bir düşmanın göz kapaklarına her zaman iki altın sikke koyarsın. Her nasılsa, parayı her zaman geri bulursun.                                                                                       |
+| **5** | **İşe sadakat**: Sözün senin bağındır. Bir işi kabul ettikten sonra, onu sonuna kadar görürsün. Yıpranmış bir **Çete Çubuğu** al. Bir yemin çubuğun yüzeyine işaretlendiğinde, çubuk tamamlanana kadar sertleşir (d8). Yemin bozulursa çubuk ikiye ayrılır.                                                             |
+| **6** | **Borçlarını her zaman öde**: İster parayla ister ayni olarak borcunu her zaman ödersin. Diğer herkesten de daha azını beklemezsin. Bir **Karalanmış Defter** al, ardından **Bağlar** tablosunda ikinci kez zar at.                                                                                                |
 
+## Atının cinsi nedir? 1d6 at:
 
-## What breed is your horse? Roll 1d6:
-
-|       |                       |                                                                                                                 |
-| ----- | --------------------- | --------------------------------------------------------------------------------------------------------------- |
-| **1** | **Heavy Destrier**    | A beast built for war, an imposing creature. 8 HP, 1 Armor, hooves (d10+d10), +2 slots.                         |
-| **2** | **Blacklegged Dandy** | Hardy and adaptable. **Tough** or **Perilous** terrain are one step easier. 6 HP. +4 slots.                     |
-| **3** | **Rivertooth**        | Impressively strong, capable of carrying heavy loads. 4 HP. +6 slots (only +2 slots if carrying two people).    |
-| **4** | **Piebald Cob**       | Intelligent, it can understand simple commands and even has an instinct for danger. 6 HP. +4 slots.            |
-| **5** | **Linden White**      | Highly trained and agile, it can perform intricate maneuvers in a time of need (no DEX save to flee). 4 HP. +3 slots. |
-| **6** | **Stray Fogger**      | Wild but very fast (even in **Tough** terrain). Rides light. 4 HP. +2 slots.                                 |
+|       |                          |                                                                                                                                                              |
+| ----- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1** | **Ağır Savaş Atı**       | Savaş için yapılmış bir canavar, heybetli bir yaratık. 8 HP, 1 Zırh, nallar (d10+d10), +2 yuva.                                                                     |
+| **2** | **Karayağızlı Zarif**    | Dayanıklı ve uyumludur. **Zorlu** veya **Tehlikeli** arazi bir kademe daha kolaydır. 6 HP. +4 yuva.                                                                |
+| **3** | **Nehir Dişi**           | Etkileyici derecede güçlü, ağır yükleri taşıyabilir. 4 HP. +6 yuva (iki kişi taşıyorsa sadece +2 yuva).                                                             |
+| **4** | **Alaca Midilli**        | Zekidir, basit komutları anlayabilir ve hatta tehlikeye karşı bir içgüdüsü vardır. 6 HP. +4 yuva.                                                                     |
+| **5** | **Linden Beyazı**        | Oldukça eğitimli ve çeviktir, gerektiğinde karmaşık manevralar yapabilir (kaçmak için ÇEV zarı gerekmez). 4 HP. +3 yuva.                                                |
+| **6** | **Serseri Sisli**        | Vahşidir ama çok hızlıdır (**Zorlu** arazide bile). Hafif biner. 4 HP. +2 yuva.                                                                                |

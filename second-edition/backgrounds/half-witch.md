@@ -5,43 +5,42 @@ parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Half Witch
+# Yarı Cadı
 
-> Born of both the mortal world and the unseen, you are an enigma to some and feared by many. Yours is the tale of what happens when two worlds collide.
+> bir ölümlü bir de görünmeyenin çocuğu olarak, bazıları için bir muamma, birçokları içinse korku kaynağısın. Seninki, iki dünya çarpıştığında olanların hikayesi.
 
-## Names
+## İsimler
 
 Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
 
-## Starting Gear
- 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Spellbook (Thicket: A thicket of trees and dense
-brush up to 50ft wide suddenly sprouts up. _Wrapped in vines that must be destroyed again with each use._)
-- Iron Dagger (d6)
-- Herbs Pouch (restore 1 STR, 3 uses)
-- Ghillie Suit
+## Başlangıç Ekipmanı
 
-## What did you bring back from the Unseelie Court? Roll 1d6:
+- 3d6 Altın 
+- Yiyecek (3 kullanım)
+- Meşale (3 kullanım)
+- Büyü Kitabı (Çalılık: 15 m genişliğe kadar bir ağaç ve sık çalılık kümesi aniden biter. _Her kullanımdan sonra tekrar yok edilmesi gereken asmalarla sarılıdır._)
+- Demir Hançer (d6)
+- Ot Kesesi (1 GÜÇ onarır, 3 kullanım)
+- Ghillie Giysisi
 
-|       |                                                                                                                                                                                                                                                               |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | A **Black Rose Fiddle** (_bulky_). Its music causes intense sadness and immobility in nearby mortals. (Others are merely fascinated.) You don't know how to play.                                                                                              |
-| **2** | **Paper legs**. You are extremely light, and can fall a few stories without getting hurt. Try to avoid tearing them or getting them wet.                                                                                                                                |
-| **3** | A **Living Nightmare** that dwells within you but manifests whenever you are in danger. It has your same **Attributes** and **HP** and attacks with claws (d8+d8). It disappears on **Critical Damage** (take 1d4 WIL damage), re-appearing again on the next full moon. |
-| **4** | A **Raven Familiar** [8 HP, 3 STR, 11 DEX, 13 WIL, beak, (d6)]. It speaks as an intelligent being and is entirely devoted to you.                                                                                                                             |
-| **5** | A **Briar Thorn**. It can pierce any organic material (quite painfully) but when removed leaves no trace of the intrusion.                                                                                                                                    |
-| **6** | A Fae creature's **True Name**. Use it to summon its owner for an act of great service, but only once. It could also fetch a hefty price, from the right buyer.                                                                                               |
+## Unseelie Sarayı'ndan ne getirdin? 1d6 at:
 
-## What concoction do you carry, and what rare ingredients did you gather to make it? Roll 1d6:
+|       |                                                                                                                                                                                                                                                                                 |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Bir **Siyah Gül Kemanı** (_hantal_). Müziği, yakındaki ölümlülerde yoğun üzüntü ve hareketsizliğe neden olur. (Diğerleri sadece büyülenir.) Nasıl çalacağını bilmiyorsun.                                                                                                                |
+| **2** | **Kağıt bacaklar**. Son derece hafifsin ve birkaç kat yükseklikten zarar görmeden düşebilirsin. Onları yırtmaktan veya ıslatmaktan kaçınmaya çalış.                                                                                                                                        |
+| **3** | İçinde yaşayan ama tehlike anında ortaya çıkan bir **Yaşayan Kabus**. Seninle aynı **Niteliklere** ve **HP'ye** sahiptir ve pençelerle saldırır (d8+d8). **Kritik Hasar** üzerine kaybolur (1d4 İRADE hasarı alırsın), bir sonraki dolunayda yeniden ortaya çıkar.                                  |
+| **4** | Bir **Kuzgun Hobdaş** [8 HP, 3 GÜÇ, 11 ÇEV, 13 İRADE, gaga (d6)]. Zeki bir varlık gibi konuşur ve tamamen sana adanmıştır.                                                                                                                                                       |
+| **5** | Bir **Diken Dikeni**. Herhangi bir organik materyali (oldukça acı verici bir şekilde) delebilir, ancak çıkarıldığında müdahaleden hiçbir iz bırakmaz.                                                                                                                              |
+| **6** | Bir Peri yaratığının **Gerçek Adı**. Onu, büyük bir hizmet eylemi için sahibini çağırmak üzere kullan, ama sadece bir kez. Ayrıca doğru alıcıya yüklü bir fiyata satılabilir.                                                                                                         |
 
-|       |                      |                                                                                                                                                                                |
-| ----- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | **Rebirth Ash**      | Remnants of a bark spirit. Sprinkle to reignite a fire that has died or return to life a creature that has died only moments before. 3 uses.                                  |
-| **2** | **Glamour Feather**  | Plume of a firebird. Can make any creature appear convincingly as someone (or something) else. 1 use.                                                                         |
-| **3** | **Hawthorn Seed**    | An acorn from the other side, gathered on the spring equinox. When planted, it sprouts a luxurious shelter, collapsing at moonrise the next day. 1 use.                         |
-| **4** | **Stonetree Sap**    | Sap obtained in exchange for blood. Hardens when rubbed on any surface (+1 Armor). 3 uses.        |
-| **5** | **Nightdust Powder** | Made from the ritual burning of six owls. When tossed in the air, day turns to night for a short while. 2 uses.                                                             |
-| **6** | **Hex Stone**        | Gathered from a river that flows from the _other side_. Removed from its iron tin, it can absorb the effects of an active magical effect. If destroyed, the magic is released. 1 use. |
+## Hangi iksiri taşıyorsun ve onu yapmak için hangi nadir malzemeleri topladın? 1d6 at:
+
+|       |                         |                                                                                                                                                                                                                          |
+| ----- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1** | **Yeniden Doğuş Külü**  | Bir ağaç kabuğu ruhunun kalıntıları. Sönmüş bir ateşi yeniden alevlendirmek veya sadece anlar önce ölmüş bir yaratığı hayata döndürmek için serpiştir. 3 kullanım.                                                                       |
+| **2** | **Aldatıcı Tüy**        | Bir ateşkuşunun tüyü. Herhangi bir yaratığı inandırıcı bir şekilde başka birine (veya başka bir şeye) dönüştürebilir. 1 kullanım.                                                                                                   |
+| **3** | **Alıç Tohumu**         | İlkbahar ekinoksunda toplanmış, öteki taraftan bir meşe palamudu. Ekildiğinde, lüks bir sığınak filizlendirir, ertesi gün ay doğumunda çöker. 1 kullanım.                                                                                |
+| **4** | **Taş Ağacı Özü**       | Kan karşılığında elde edilen özsu. Herhangi bir yüzeye sürüldüğünde sertleşir (+1 Zırh). 3 kullanım.                                                                                                                              |
+| **5** | **Gece Tozu**           | Altı baykuşun ritüel yakılmasıyla yapılır. Havaya fırlatıldığında, gün kısa bir süreliğine geceye döner. 2 kullanım.                                                                                                       |
+| **6** | **Cadı Taşı**           | _Öteki taraftan_ akan bir nehirden toplanmış. Demir kutusundan çıkarıldığında, aktif bir büyülü etkinin etkilerini emebilir. Yok edilirse, büyü serbest kalır. 1 kullanım.                                                              |

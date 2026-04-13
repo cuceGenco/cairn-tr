@@ -4,6 +4,7 @@ layout: default
 parent: Backgrounds
 grand_parent: Second Edition
 ---
+
 # Hayvan Terbiyecisi
 
 > Vahşi yaratıkların arasında korkusuzca ve kontrolü elde tutarak yürüyebilen tek kişi sensin. Hayvanlarla, diğerlerinin ancak hayalini kurabileceği bir bağın var... tabii onların atıştırmalığı haline gelmezsen.
