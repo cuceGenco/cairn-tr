@@ -7,43 +7,43 @@ nav_order: 3
 has_toc: false
 ---
 
-# Warden's Guide
+# Muhafız Rehberi
 
-The Warden’s Guide includes tools, tables, and advice for running Cairn, with procedures to generate content that fits into the Vald setting or any fantasy world of your imagining. The following chapters offer resources and detailed instructions for creating immersive adventures, with an emphasis on dynamic gameplay and rich worldbuilding. It is our hope that with these pages anyone can craft unique, challenging experiences that engage and captivate players.
+Muhafız Rehberi, Cairn'i yönetmek için araçlar, tablolar ve tavsiyeler ile Vald ortamına veya hayal gücünüzdeki herhangi bir fantezi dünyasına uyan içerikler oluşturmak için prosedürler içerir. Aşağıdaki bölümler, dinamik oyun ve zengin dünya inşasına vurgu yaparak sürükleyici maceralar yaratmak için kaynaklar ve ayrıntılı talimatlar sunar. Bu sayfalarla herkesin oyuncuları etkileyen ve büyüleyen benzersiz, zorlu deneyimler yaratabileceğini umuyoruz.
 
 * * *
 
-## Table of Contents
+## İçindekiler
 
-### Part 1: World Building
-- [Setting Seeds](setting-seeds)
-- [Factions](setting-seeds#factions)
-- [Topography](setting-seeds#topography)
-- [Dungeon Seeds](dungeon-seeds)
-- [Forest Seeds](forest-seeds)
+### Bölüm 1: Dünya İnşası
+- [Ortam Tohumları](setting-seeds)
+- [Gruplaşmalar](setting-seeds#factions)
+- [Topografya](setting-seeds#topography)
+- [Zindan Tohumları](dungeon-seeds)
+- [Orman Tohumları](forest-seeds)
 
-### Part 2: Warden's Tools
-- [Bestiary](bestiary)
-- [Creating Monsters](creating-monsters)
-- [Naming Procedures](naming-procedures)
-- [Growth](growth)
-- [Spellbooks](spellbooks)
-- [Reliquary](reliquary)
+### Bölüm 2: Muhafız Araçları
+- [Bestiary (Canavar Kitabı)](bestiary)
+- [Canavar Yaratma](creating-monsters)
+- [İsimlendirme Prosedürleri](naming-procedures)
+- [Gelişim](growth)
+- [Büyü Kitapları](spellbooks)
+- [Kutsal Emanetler](reliquary)
 
-### Part 3: Advice & Examples
-- [Creating Backgrounds](creating-backgrounds)
-- [Pointcrawls](pointcrawls)
-- _Frequently Asked Questions_
-  - [About the Example Party](about-the-example-party)
-  - [Dungeon Exploration](dungeon-exploration)
-  - [Detachments](detachments)
-  - [Wilderness Exploration](wilderness-exploration)
-  - [Bonds and Omens](bonds-and-omens)
-  - [Knowledge and Perception](knowledge-and-perception)
-  - [Saves](saves)
-  - [Variable Difficulty](variable-difficulty)
-  - [Combat](combat)
-- _The Setting of Vald_
+### Bölüm 3: Tavsiyeler ve Örnekler
+- [Geçmiş Yaratma](creating-backgrounds)
+- [Nokta Geçişleri](pointcrawls)
+- _Sıkça Sorulan Sorular_
+  - [Örnek Parti Hakkında](about-the-example-party)
+  - [Zindan Keşfi](dungeon-exploration)
+  - [Müfrezeler](detachments)
+  - [Vahşi Doğa Keşfi](wilderness-exploration)
+  - [Bağlar ve Alametler](bonds-and-omens)
+  - [Bilgi ve Algı](knowledge-and-perception)
+  - [Zarlar](saves)
+  - [Değişken Zorluk](variable-difficulty)
+  - [Çatışma](combat)
+- _Vald Ortamı_
   - [Vald](vald)
-  - [NPC Tables](npc-tables)
-- [Bibliography](bibliography)
+  - [NPC Tabloları](npc-tables)
+- [Kaynakça](bibliography)
