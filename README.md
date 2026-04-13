@@ -5,8 +5,10 @@ nav_order: 1
 permalink: /
 ---
 
-Cairn is an adventure game about exploring a dark and mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Character generation is quick and random, adventures are tense and reward careful exploration, and combat is frantic and deadly. The game was written by [Yochai Gal](https://newschoolrevolution.com). There are now multiple editions (see sidebar) that are all rules-compatible.
+# Cairn Hakkında
 
-The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You can find the source files [here](https://github.com/yochaigal/cairn).
+Cairn, tuhaf halklar, gizli hazineler ve tarifsiz canavarlarla dolu karanlık ve gizemli bir Orman'ı keşfetmeye dayalı bir macera oyunudur. Karakter yaratımı hızlı ve rastgeledir, maceralar gergindir ve dikkatli keşfi ödüllendirir, çatışma ise çılgınca ve ölümcüldür. Oyun [Yochai Gal](https://newschoolrevolution.com) tarafından yazılmıştır. Şu anda tümü kurallarla uyumlu birden fazla baskı (kenar çubuğuna bakın) bulunmaktadır.
 
-This is a game that values community contributions! If you'd like to submit an adventure, hack, monster, or conversion take a look at the [submission guide](/submissions/submission-guide).
+Metnin tamamı [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) lisansı altındadır. Kaynak dosyaları [burada](https://github.com/yochaigal/cairn) bulabilirsiniz.
+
+Bu, topluluk katkılarına değer veren bir oyundur! Bir macera, hack, canavar veya uyarlama göndermek isterseniz [gönderim kılavuzuna](/submissions/submission-guide) göz atın.
